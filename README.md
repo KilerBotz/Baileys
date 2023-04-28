@@ -2,7 +2,7 @@
 # Baileys Up To Date
  
  <p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/amiruldev20/baileys?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+<img width="" src="https://img.shields.io/github/repo-size/KilerBotz/Baileys?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 </p>
  
  > **Note**: repo ini aktif, karena repo utama sudah dihapus. maka baileys ini sebisa mungkin saya update
